@@ -1,2 +1,2 @@
-# ucsbroboticsclub.github.io
-GitHub Pages test
+# [ucsbroboticsclub.github.io](http://ucsbroboticsclub.github.io/)
+Website for the Robotics Club @ UCSB
