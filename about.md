@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+The Robotics Club @ UCSB is a student organization centered around building robots. We participate in several yearly competitions and engage in other projects throughout the year. Membership is free and open to all UCSB students. Our club advisor is [Prof. Byl](http://www.ece.ucsb.edu/~katiebyl/).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+We meet in Harold Frank Hall room 3120A. Weekly meetings are held on Fridays at 2 PM (correct as of 4/10/15), though we occasionally have extra meetings during the week, typically when preparing for a competition. We typically meet every Friday during Fall, Winter, and Spring quarters with the exception of finals week. Sign up for our [mailing list](https://groups.google.com/forum/#!forum/ucsb-robotics-club) to get up-to-date announcements through email. 
