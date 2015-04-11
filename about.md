@@ -11,6 +11,7 @@ We meet in Harold Frank Hall room 3120A. Weekly meetings are held on Fridays at 
 We use [Github](https://github.com/) to share code and other files for our robots. You can request an invite to join our [Github Organization](https://github.com/UCSBRoboticsClub/) at a meeting or by emailing one of the current club officers. You can see videos of our robots and other club activities at our [Youtube Channel](https://www.youtube.com/channel/UCOe3xpXzI43P0LEzduwNDJg).
 
 The club officers for the 2014-2015 school year are
+
   - Gauthier Dieppedalle (President)
   - Patrick Clary (Internal VP)
   - Nickolas Clinton (External VP)
