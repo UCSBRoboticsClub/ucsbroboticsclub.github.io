@@ -3,7 +3,7 @@ layout: project
 title: Grand PrIEEE 2015
 ---
 
-The robotics club's 2015 entry for UCSD's [Grand PrIEEE](http://ieee.ucsd.edu/projects/gp/about) competition (formerly known as Viacar). The competition is modeled on UC Davis' Natcar competition. Car-like robots try to follow a track marked by tape and a wire carying a 75 kHz 100 ma RMS current and complete the course in the shortest time possible.
+The robotics club's 2015 entry for UCSD's [Grand PrIEEE](http://ieee.ucsd.edu/projects/gp/about) competition (formerly known as Viacar). The competition is modeled after UC Davis' Natcar competition. Car-like robots try to follow a track marked by tape and a wire carying a 75 kHz 100 ma RMS current and complete the course in the shortest time possible.
 
 Body
 ====
@@ -20,6 +20,18 @@ This robot uses the same motor driver as the 2014 robot. It is a 30 amp bidirect
 Processor
 =========
 The robot uses a [Teensy 3.1](http://www.pjrc.com/teensy/teensy31.html) board, containing a 32-bit ARM Cortex-M microcontroller from Freescale. The dual ADCs that the Teensy 3.1 offers over the Teensy 3.0 are used to continuously sample from the right and left sensors simultaneously.
+
+Regulators
+==========
+The robot uses linear regulators for logic power and servo power.
+
+Radio
+=====
+This robot uses an nRF24L01P radio module to receive commands from a handheld controller and to present a wireless terminal interface that allows variables to be viewed and modified in real time. This helps significantly when tuning the control algorithms.
+
+Algorithms
+==========
+This robot uses PD control, but also takes a lot more of the dynamics into account than in previous years to make the robot behave more like a linear system.
 
 Videos
 ======

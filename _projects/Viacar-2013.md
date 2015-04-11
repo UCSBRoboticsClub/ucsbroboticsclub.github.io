@@ -5,7 +5,7 @@ title: Viacar 2013
 
 ![Picture of 2013 Viacar robot](/images/viacar2013.jpg)
 
-The robotics club's 2013 entry for UCSD's Viacar competition (renamed in 2014 to Grand PrIEEE). The competition is modeled on UC Davis' Natcar competition. Car-like robots try to follow a track marked by tape and a wire carying a 75 kHz 100 ma RMS current and complete the course in the shortest time possible.
+The robotics club's 2013 entry for UCSD's Viacar competition (renamed in 2014 to [Grand PrIEEE](http://ieee.ucsd.edu/projects/gp/about)). The competition is modeled after UC Davis' Natcar competition. Car-like robots try to follow a track marked by tape and a wire carying a 75 kHz 100 ma RMS current and complete the course in the shortest time possible.
 
 Body
 ====
@@ -29,7 +29,7 @@ The processor is powered using a linear regulator. The servo power comes from a 
 
 Radio
 =====
-This robot was the first of the club's Viacar/Grand PrIEEE robots to use a nRF24L01P radio module for remote control. This allowed the robot to be easily brought back to the starting line when it lost the track.
+This robot was the first of the club's Viacar/Grand PrIEEE robots to use an nRF24L01P radio module for remote control. This allowed the robot to be easily brought back to the starting line when it lost the track.
 
 Results
 =======
