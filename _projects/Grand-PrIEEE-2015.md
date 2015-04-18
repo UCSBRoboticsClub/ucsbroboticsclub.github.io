@@ -36,3 +36,5 @@ This robot uses PD control, but also takes a lot more of the dynamics into accou
 Videos
 ======
 [Initial Testing](https://www.youtube.com/watch?v=A-rxcL3vPYc)
+
+{% youtube A-rxcL3vPYc 500 400 %} 
